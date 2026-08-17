@@ -169,6 +169,7 @@ footer{
     border-top: 4px solid black;
     display: flex;
     justify-content: center;
+    font-weight: 700;
 
 }
 
