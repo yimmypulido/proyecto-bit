@@ -1,5 +1,6 @@
 
 .titulo_principal{
+
     text-decoration: underline;
     text-align: center;
     margin: 30px;
@@ -10,8 +11,8 @@
 
 .img_presentacion{
 
-    border: 5px transparent black;
-    box-shadow: 0px 0px 40px black;
+    border: 5px transparent rgb(2, 2, 2);
+    box-shadow: 0px 0px 40px rgb(0, 0, 0);
     border-radius: 5%;
     height: 500px;
     transition: .9s ease-in-out;
@@ -47,4 +48,3 @@
 
     font-size: 2rem;
 }
-

@@ -27,7 +27,7 @@
     align-items: center;
     width: 750px;
     height: 400px;
-    box-shadow: 0px 0px 40px black;
+    box-shadow: 0px 0px 40px rgb(7, 7, 7);
     border-radius: 5%;
    
 }
@@ -38,11 +38,11 @@
     height: 610px;
     padding: 25px;
     border: 4px transparent rgb(255, 255, 255);
-    box-shadow: 0px 0px 40px black;
+    box-shadow: 0px 0px 40px rgb(0, 0, 0);
     border-radius: 5%;
     font-size: 2rem;
     transition: .6s ease-in-out;
-    text-decoration: overline black;
+    text-decoration: overline rgb(0, 0, 0);
     overflow: hidden;
     
 }
