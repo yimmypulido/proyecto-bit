@@ -9,6 +9,28 @@
     
 }
 
+
+
+.indicaciones{
+
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
+
+.indicacion_text{
+
+    font-size: 2rem;
+
+}
+
+.img_indicacion{
+
+    height: 100px;
+
+}
+
 .img_presentacion{
 
     border: 5px transparent rgb(2, 2, 2);
